@@ -1,3 +1,4 @@
+*Public Repo*
 # Dynamaker Integration for Cura
 Streamlines the process of importing manufacturing files from online configurators by providing an integrated file queue with direct import and order details. Perfect for small business owners or hobbyists looking for an easy way to import orders directly into Cura.
 
