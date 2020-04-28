@@ -14,3 +14,10 @@ This plugin is developed by the Swedish mass customization engineers at <a href=
 
 ## Feedback & Bugs
 Please send feedback and bugs to <a href='mailto:info@skymaker.se'>info@skymaker.se</a>!
+
+## Resources
+[DynaMaker.com](https://dynamaker.com/)  
+[file2machine.com](https://file2machine.com/)
+
+## Preview
+![preview](./data/demo_img.png "preview")
