@@ -1,0 +1,46 @@
+[
+  {
+    "publicationId": "demo",
+    "meta": {
+      "title": "Demo Cube",
+      "projectId": "zBXgwPNjBAv?preset=1",
+      "application": "CuraDemoCube",
+      "customerId": "DEMO",
+      "contact": "",
+      "email": "info@skymaker.se"
+    },
+    "files": [
+      {
+        "id": "demo1",
+        "type": "stl",
+        "size": "1106",
+        "meta": {
+          "material": "PLA",
+          "quantity" : "1"
+        }
+      }
+    ]
+  },
+  {
+    "publicationId": "demo",
+    "meta": {
+      "title": "Demo Cube",
+      "projectId": "zBXgwPNjBAv?preset=2",
+      "application": "CuraDemoCube",
+      "customerId": "DEMO",
+      "contact": "",
+      "email": "info@skymaker.se"
+    },
+    "files": [
+      {
+        "id": "demo2",
+        "type": "stl",
+        "size": "1088",
+        "meta": {
+          "material": "PLA",
+          "quantity" : "2"
+        }
+      }
+    ]
+  }
+]

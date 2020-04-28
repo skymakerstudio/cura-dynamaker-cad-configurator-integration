@@ -1,0 +1,7 @@
+{
+  "name": "DynaMaker CAD Configurator Integration",
+  "author": "SkyMaker AB",
+  "version": "1.0.0",
+  "supported_sdk_versions": ["6.0.0", "6.1.0", "6.2.0", "6.3.0", "7.0.0", "7.1.0", "7.2.0"],
+  "description": "Streamlines the process of importing manufacturing files from online configurators by providing an integrated file queue with direct import and order details. Perfect for small business owners or hobbyists looking for an easy way to import orders directly into Cura."
+}
